@@ -4,6 +4,8 @@ This only works if your directory is a git directory and if you've already run t
 
 If you don't know how to do those two things here's a brief rundown for windows users
 1. Go into the directory you want to install kohya_ss into
-2.  run `git clone https://github.com/bmaltais/kohya_ss`
-3.  Go into the kohya_ss directory created and run "setup.bat" and fallow the steps as prompted
-4.  Afterwards you can place "fix-lyco.bat" into your kohya_ss main directory and run it
+2. Chick on the directory at the top of file explorer (example: C:\software), type "cmd" and press enter
+4. Run `git clone https://github.com/bmaltais/kohya_ss` into the console and when it's done you can close it
+5. Go into the newly created "kohya_ss" directory created and run "setup.bat" and follow the steps as prompted
+6. Place "fix-lyco.bat" into your "kohya_ss" directory and run it
+7. Enjoy!
