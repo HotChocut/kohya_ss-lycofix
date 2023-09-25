@@ -1,5 +1,5 @@
 @echo off
-echo Beginning lyco quickpatch...
+echo Beginning quickpatch...
 cd /D "%~dp0"
 call .\venv\Scripts\activate
 
@@ -32,9 +32,9 @@ echo.
 call pip install pydantic==1.10.11
 
 echo.
-echo ===================================
-echo  Lyco quickpatch ran successfully!
-echo ===================================
+echo ============================================
+echo  LyCORIS LoCON quickpatch ran successfully!
+echo ============================================
 echo.
 echo Console will close automatically in 5 seconds...
 timeout /t 5
