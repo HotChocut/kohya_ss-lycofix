@@ -1,4 +1,7 @@
 # kohya_ss-lycofix
+---
+`This extension is depreciated as training/extracting LyCORIS LoCON models has been fixed in kohya_ss.`
+
 A simple batchscript that literally just runs @kaan36875's [fix](https://github.com/bmaltais/kohya_ss/issues/1129#issuecomment-1626372311) for being unable to train/extract LyCORIS LoCON.
 (This only works after you have completed "setup.bat")
 
